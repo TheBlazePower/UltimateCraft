@@ -2,7 +2,7 @@
   "name": "ucbot",
   "version": "11.1.0",
   "description": "UCBot made by TheBlazePower",
-  "main": "bot.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^11.3.2",
     "fs": "^0.0.1-security",
